@@ -1,0 +1,13 @@
+my_sets = {'Apple','Orange','Banana',1,2,5.5,True,False,0,'Banana'}
+# print(my_sets)
+# print(type(my_sets))
+# my_sets.add(10)
+# print(my_sets)
+# my_sets.remove(2)
+# print(my_sets)
+# my_sets.remove(2)
+print(my_sets)
+my_sets.discard(2)
+print(my_sets)
+my_sets.discard(2)
+print(my_sets)
